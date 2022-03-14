@@ -1,1 +1,1 @@
-# GPT-Paraphraser
+# vocabulary-enhancer
