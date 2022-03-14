@@ -1,0 +1,2 @@
+keytotext==1.5.2
+rake_new2==1.0.5
